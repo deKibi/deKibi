@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Denys (~jpegflip) 👋</h1>
+<h1 align="center">Hi, I'm Denys (~cryptocodi) 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Programming%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
