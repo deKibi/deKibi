@@ -7,13 +7,10 @@
 <h1 align="center">Socials:</h1>
 
 <p align="center">
-  <a href="https://t.me/arbyzeru" target="_blank">
+  <a href="https://t.me/cryptocodi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://teletype.in/@akcrypto" target="_blank">
-    <img src="https://img.shields.io/badge/Teletype-2D2D2D?style=for-the-badge&logo=teletype&logoColor=white" alt="Teletype">
-  </a>
-  <a href="https://www.youtube.com/@arbyzeru" target="_blank">
+  <a href="https://www.youtube.com/@cryptocodi" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://github.com/deKibi" target="_blank">
