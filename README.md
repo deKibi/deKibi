@@ -34,16 +34,16 @@
     <table>
         <tbody>
             <tr>
-                <td align="center"><b>EVM Chains</b></td>
+                <td align="center"><b>EVM Chains (ETH, BEP20, Matic)</b></td>
                 <td align="center"><img style="vertical-align: middle;" src="https://img.shields.io/badge/ethereum-grey?logo=ethereum&logoColor=white"></td>
-                <td align="center"><b>0x18558e85297d6ea64fe989e1c5b5b254e70e5da8</b></td>
-                <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x18558e85297d6ea64fe989e1c5b5b254e70e5da8" alt="EVM QR Code" style="margin-right: 20px;"></td>
+                <td align="center"><b>0x5F762ed1B0d2328A3639D609D24A67FDEf0804C6</b></td>
+                <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0x5F762ed1B0d2328A3639D609D24A67FDEf0804C6" alt="EVM QR Code" style="margin-right: 20px;"></td>
             </tr>
             <tr>
                 <td align="center"><b>SOL</b></td>
                 <td align="center"><img style="vertical-align: middle;" src="https://img.shields.io/badge/solana-grey?logo=solana&logoColor=white"></td>
-                <td align="center"><b>AMXthnU9JQs5ZSFvSc6587Qx75bidHCBu4BgBzw4aSPZ</b></td>
-                <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=AMXthnU9JQs5ZSFvSc6587Qx75bidHCBu4BgBzw4aSPZ" alt="SOL QR Code"></td>
+                <td align="center"><b>AbmqpL1WkhxfUnRza5pNcxXZHYFzTsThjY1kEZLoBBGJ</b></td>
+                <td><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=AbmqpL1WkhxfUnRza5pNcxXZHYFzTsThjY1kEZLoBBGJ" alt="SOL QR Code"></td>
             </tr>
         </tbody>
     </table>
